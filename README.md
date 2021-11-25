@@ -1,4 +1,4 @@
-# FrankLCD
+# LCD Eq4
 
 Config of .ioc
 
